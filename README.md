@@ -142,4 +142,3 @@ The content is divided up as follows:
 
 # Contributors
  * Braedy Kuzma
- * yMsquare
