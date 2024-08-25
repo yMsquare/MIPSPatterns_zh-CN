@@ -1,4 +1,5 @@
 # MIPSPatterns
+
 A resource for common coding structures in MIPS.
 
 It's often difficult to translate high level programming structures that are
@@ -141,3 +142,4 @@ The content is divided up as follows:
 
 # Contributors
  * Braedy Kuzma
+ * yMsquare
